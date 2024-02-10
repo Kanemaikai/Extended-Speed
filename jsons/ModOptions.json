@@ -8,6 +8,5 @@
         "unitSupplyPerPopulation": 10,
         "pantheonBase": 15,
         "pantheonGrowth": 0
-    },
-    "isBaseRuleset": true
+    }
 }
