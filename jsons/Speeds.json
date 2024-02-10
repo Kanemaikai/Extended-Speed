@@ -11,7 +11,7 @@
         "barbarianModifier": 0.25,
         "goldGiftModifier": 0.75,
         "cityStateTributeScalingInterval": 5,
-        "goldenAgeLengthModifier": 1.0,
+        "goldenAgeLengthModifier": 0.75,
         "religiousPressureAdjacentCity": 9,
         "peaceDealDuration": 10,
         "dealDuration": 30,
